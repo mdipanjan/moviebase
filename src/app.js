@@ -33,6 +33,7 @@ if(document.title ==='Moviebase-Movies'){
 
     movie.placeHolder().then(p=>{
         view.pritPlaceHolder(p);
+        
     })
 
     const searchMovie = document.getElementById('search__button').addEventListener('click',(e)=>{

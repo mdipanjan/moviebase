@@ -187,28 +187,28 @@ body {
       left: 6%; } }
 
 .cast-name {
-  color: red;
+  
   font-size: 1rem;
   position: absolute;
   top: 90%;
   left: 15%; }
 
 .cast2 {
-  background-color: #e2e0e1;
+
   border-radius: 0.5rem; }
   .cast2:hover {
     cursor: pointer; }
 
 .cast1 {
-  background-color: #e2e0e1;
+
   border-radius: 0.5rem; }
 
 .cast3 {
-  background-color: #e2e0e1;
+  
   border-radius: 0.5rem; }
 
 .cast4 {
-  background-color: #e2e0e1;
+  
   border-radius: 0.5rem; }
 
 .img {
@@ -251,7 +251,7 @@ body {
   border-radius: 0.5rem; }
 
 .similar-list {
-  background-color: #e2e0e1;
+  
   height: 150px;
   border-radius: 0.5rem; }
 
